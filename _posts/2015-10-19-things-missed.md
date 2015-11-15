@@ -1,22 +1,22 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-10-19T11:47:11.583Z'
-dateModified: '2015-10-19T11:46:44.612Z'
+description: A miscellany of places.
+datePublished: '2015-11-15T22:00:28.516Z'
+dateModified: '2015-11-15T21:59:38.211Z'
 title: Things missed.
+sourcePath: _posts/2015-10-19-things-missed.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-10-19-things-missed.md
-published: true
 url: things-missed/index.html
 _type: Article
 
